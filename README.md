@@ -7,4 +7,5 @@ le principe de l'exercice est de réaliser un fichier **index.html** a partir d'
 et d'arriver au même résultat grâce au fichier **style**.
 
 |debut du travail|temps nécessaire|responsable du travail|
-|21/12/2019|2 jours|2 jours|
+|:---------------|:---------------|:---------------------|
+|     21/12/2019 |    2 jours     |   Pierre Lorand      |
