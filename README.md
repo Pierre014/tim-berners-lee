@@ -8,4 +8,4 @@ et d'arriver au même résultat grâce au fichier **style**.
 
 |debut du travail|temps nécessaire|responsable du travail|
 |:---------------|:---------------|:---------------------|
-|     21/12/2019 |    2 jours     |   Pierre Lorand      |
+| [center] 21/12/2019[/center] | [center] 2 jours[/center] | [center] Pierre Lorand [/center] |
