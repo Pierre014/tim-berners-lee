@@ -1,0 +1,128 @@
+body{
+    width: 514px;
+    margin: auto;
+    background-color: gainsboro;
+    font-family: 'Sans Open', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: rgba(128, 128, 128, 0.8);
+    
+}
+section{
+    background-color: white;
+}
+p{
+    font-family: 'Monrserrat', sans-serif;
+    color: grey;
+}
+/*stylisation du header*/
+header{
+    width: 473px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: 20px;
+    padding: 20px;
+}
+header p{
+    
+  text-align: justify;
+  color: grey;
+  font-family: 'Monrserrat', sans-serif;
+  line-height: 1.5
+}
+header img{
+    
+    border-radius: 100px;
+    width: 100px;
+    height: 100px;
+    border: 3px solid gainsboro;
+}
+header h2{
+    color: rgb(136, 136, 136);
+    font-size: 20px
+}
+h1{
+    color:rgba(201, 61, 43, 0.9);
+}
+header a{
+    
+    text-decoration: none;
+    border: 1px solid rgba(201, 61, 43, 0.9);
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgba(201, 61, 43, 0.9);
+    color:white;
+}
+/*ici section reseau sociaux*/
+ul{
+    list-style-type:none;
+}
+li{
+    display: inline-block;
+    line-height: 25px;
+    width: 100px;
+    font-family: 'Sans Open', sans-serif;
+    color: rgba(128, 128, 128, 0.66);
+}
+#reseau{
+    width: 500px;
+    text-align: center;
+    height: 200px;
+    line-height:250px;
+    border-radius: 5px;
+    padding-right: 15px;
+}
+
+/*ici commence la section films fav*/
+
+.movies{
+    width: 475px;
+    border-radius: 5px;
+    height: 700px;
+    padding: 20px;
+    margin-top: 20px;
+}
+h2{
+    text-align: center;
+    color:grey;
+}
+.affiche{
+    
+    width: 80px;
+    height: 130px;
+    position: absolute;
+    padding-top: 40px;
+    padding-left: 20px
+    
+}
+article{
+    padding-bottom: 25px;
+}
+.partie-g{
+    float: left;
+    width: 210px;
+}
+.partie-d{
+    float:right;
+    width: 355px;
+}
+h3{
+    color:rgb(136, 136, 136);
+    text-align: center;
+}
+article p{
+    
+    line-height: 1.5;
+}
+span{
+    background-color: darkgrey;
+}
+
+
+
+
+
+
